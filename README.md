@@ -1,6 +1,10 @@
-# 💫 About Me:
-# 👋 Hi, I'm Bilal<br><br>### 💻 B.Tech IT Student | Aspiring Software Developer | DSA Learner<br><br>I'm a **B.Tech Information Technology student** currently focused on building strong programming fundamentals and improving my **Data Structures & Algorithms** skills.<br><br>I'm also **learning Full-Stack Web Development** and gradually expanding my technical skills through consistent practice.<br><br>🎓 B.Tech Information Technology<br>🧠 DSA & Problem Solving<br>💻 C++ & LeetCode<br>🌱 Learning Full-Stack Development<br>🚀 Aspiring Software Development Engineer<br>
+# 👋 Hi, I'm Bilal
 
+**B.Tech IT Student · Aspiring Software Developer · DSA Learner**
+
+I'm a **B.Tech Information Technology student** focused on strengthening my programming fundamentals and **Data Structures & Algorithms** skills. I'm also **learning Full-Stack Web Development** and gradually expanding my technical skills through consistent practice.
+
+🎓 B.Tech IT · 🧠 DSA & Problem Solving · 💻 C++ & LeetCode · 🌱 Learning Full-Stack Development · 🚀 Aspiring Software Development Engineer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohd-bilal-774a29373/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdbilal6450@gmail.com) 
